@@ -6,12 +6,6 @@
       <body> 
         <h1>👋 안녕하세요!</h1> 
         <p> 윈도우 어플리케이션 개발과 산업용 장비 제어부터 데이터 분석, 머신러닝, , 딥러닝, 웹 자동화까지 다양한 분야를 경험해온 개발자입니다. </p> 
-        <h2>✅ 학력사항</h2> 
-          <ul> 
-            <li><span class="highlight">학교:</span> 홍익대학교</li>
-            <li><span class="highlight">기간:</span> 2017.03 ~ 2023.02</li>
-            <li><span class="highlight">학과:</span> 전자전기 공학부</li> 
-          </ul> 
         <h2>✅ 경력사항</h2> 
           <ul> 
             <li><span class="highlight">회사:</span> 고영테크놀러지</li>
@@ -92,7 +86,6 @@
           <ul> 
             <li>Phone :  : 010-7535-8423</li>
             <li>Email: kts8421@naver.com</li>
-            <li>GitHub: <a href="https://github.com/Kim-Tae-Su/profile" target="_blank">https://github.com/yourusername</a></li>
           </ul> 
         </div>
       </body> 
